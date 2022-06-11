@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */	
+.news{
+	background-color:#e7e2d8;
+}
+.navigation {
+	text-decoration: none;
+	color: #7b9f9f;
+}
+a:hover {
+	color:#edf5ec; 
+}
+a{
+	color:#235539;
+	text-decoration: none;
+}
+.title{
+	position:absolute;
+	top:10px;
+}
+
+.firstNav .biaoti{ 
+	font-family:"方正吕建德字体";
+	font-size:78px;
+	color:#39585d;
+	letter-spacing:12px;
+	text-align:left;
+	margin-left: 10px;
+	position:relative;	
+}
+.firstNav .tang{	
+			color:#39585d;
+			font-family: "华文行楷";
+			font-size: 36px;
+			position: relative;
+	        top:-80px;
+			left:700px;
+			}	
+.firstNav .search{
+	width:250px;
+	height:25px;
+	margin-left:10px;
+	color:#39585d;
+	border:solid 2px #39585d;
+	border-radius:10px;
+	position:relative;
+	top:-45px;
+	left:900px;
+}
+.daohang{	
+			width:1300px;
+			height:60px;
+			background:#39585d;
+	        position:absolute;
+	        top:130px;left:50px;
+			font-family:'华文行楷';
+			font-size:28px;
+			color:#7b9f9f;
+		}	
+
+.nav{	
+	width:1200px;
+	height:60px;
+	margin:0 auto;
+	padding:0;
+	}
+
+.nav li{	list-style:none;
+			width:150px;
+			height:160px;
+			float:left;
+			text-align:center;
+			line-height: 60px;
+			position:relative;
+			z-index: 99;
+	        left:0px;
+
+}
+
+.nav li::before{
+				content: "";
+				width:150px;height:50px;
+				background-color: #7b9f9f;
+				border-radius:10px;
+				position:absolute;
+				z-index: -99;
+				top:5px;left:0px;
+				display:none;
+}
+.nav li:hover:before{
+	display: block;
+}
+.nav li:hover {
+	color:#edf5ec;
+}
+.zhengwen{
+	position:relative;
+	top:200px;
+}
+.tupian{
+		position: absolute;
+		left: 30px;
+		margin:0 auto;
+		padding:25px;
+		float:left;
+		}
+
+.cebian{
+		color:#585f43;
+		font-family:"华文行楷";
+		line-height:4.5;
+		font-size:24px;
+		position:absolute;
+	    margin-top:10px;
+		right: 20px;
+		width: 200px;
+		height: 850px;
+		background:rgba(57,88,93,0.5);
+	
+		}
+
+.container{
+	width:650px;
+	margin:0 auto;
+	text-align:center;
+	background-color:#e7e2d8;
+	padding:10px;}				
+*{text-align:center;}
+.poemTitle{	
+			color:#872a22;
+			text-align:left;
+			font-family:"华文行楷";
+			font-size:43px;
+			position: absolute;
+			left: 950px;
+			top: -10px;
+}
+.articleText{	font-family:'华文行楷';
+				font-size:20px;
+				letter-spacing:5px;
+				line-height:1.4;
+				color: #513021;
+				text-align:left;
+				text-indent:2em;
+			}
+
+.emphasize{font-weight:bold;}
+			
+			
+ .fanhui
+                {
+                 position: relative;
+                 top: -110px;
+                 left:1080px;
+				 font-size: 24px;
+				 font-family: "华文行楷"
+                }
+			hr {
+				position: relative;
+				left:42px;width:1400px;
+			}
+			.articleTextOne {
+				font-family:'华文行楷';
+				font-size:20px;
+				letter-spacing:5px;
+				line-height:1.4;
+				color: #513021;
+				text-align:left;
+				text-indent:2em;
+				width: 400px;position: relative;
+				left:450px;top:50px;
+			}
+			.articleTextTwo{
+				font-family:'华文行楷';
+				font-size:20px;
+				letter-spacing:5px;
+				line-height:1.4;
+				color: #513021;
+				text-align:left;
+				text-indent:2em;
+				position: relative;
+				left:-400px;top:-540px;width: 800px;
+			}
+.zhuti{
+	height: 800px;
+}

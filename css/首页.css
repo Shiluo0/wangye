@@ -1,0 +1,244 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin: 0 auto;
+	padding : 0;
+	width: 1266px;
+	height: 508px;
+}
+a {
+	text-decoration: none;
+	color: #282c2d;
+}
+a:hover {
+	color:#edf5ec; 
+}
+.page {
+	width: 1366px;
+	height: 400px;
+	background:#e7e2d8;
+}
+.topic {
+	font-family:'方正吕建德字体';
+	font-size:180px;
+	width: 735px;
+	height: 160px;
+	position:relative;
+	left: 275px;
+	top: -925px;
+	color: #39585d;
+}
+.inupt {
+	margin: 0;
+	padding : 0;
+	width: 888.99px;
+	height: 75px;
+    position:relative;
+	left: 200px;
+	top: -1005px;
+	border-radius: 20px;
+	color: #00561f;
+	border: solid 5px #00561f;
+}
+.search {
+	font-family: "华文行楷";
+	color: #00561f;
+	font-size: 36px;
+	background: #E3FAE8;
+	border: solid 5px #00561f;
+	width: 150px; 
+	position:relative;
+	left: 1115px;
+	top: -1100px;
+	border-radius: 10px;
+}
+.firstBox {
+	border: solid 5px #670000;
+	width: 150.78px;
+	height: 128.71px;
+	left: 0px;
+	position: relative;
+	top: -1045.41px;
+	border-radius: 20px;
+}
+.tang {
+	font-family: '方正吕建德字体';
+	font-size: 130px;
+	position: relative;
+	top: -260px;
+	left: 10px;
+	color: #282c2d;
+}
+.firstBox img {
+	width: 150.78px;
+	height: 128.71px;
+	border-radius: 14px;
+}
+.song {
+	font-family: '方正吕建德字体';
+	font-size: 130px;
+	position: relative;
+	top: -260px;
+	left: 10px;
+	color: #282c2d;
+}
+.secondBox {
+	border: solid 5px #670000;
+	width: 150.78px;
+	height: 128.71px;
+	left: 379.39px;
+	position: relative;
+	top: -1185px;
+	border-radius: 20px;
+}
+.secondBox img {
+	width: 150.78px;
+	height: 128.71px;
+	border-radius: 14px;
+}
+.thirdBox{
+	border: solid 5px #670000;
+	width: 150.78px;
+	height: 128.71px;
+	left: 750.39px;
+	position: relative;
+	top: -1324.41px;
+	border-radius: 20px;
+}
+.thirdBox img {
+	width: 150.78px;
+	height: 128.71px;
+	border-radius: 14px;
+}
+.yuan {
+	font-family: '方正吕建德字体';
+	font-size: 130px;
+	position: relative;
+	top: -260px;
+	left: 10px;
+	color: #282c2d;
+}
+.ming {
+	font-family: '方正吕建德字体';
+	font-size: 130px;
+	position: relative;
+	top: -260px;
+	left: 10px;
+	color: #282c2d;
+}
+.fourthBox {
+	border: solid 5px #670000;
+	width: 150.78px;
+	height: 128.71px;
+	left: 1154.39px;
+	position: relative;
+	top: -1463.41px;
+	border-radius: 20px;
+}
+.fourthBox img {
+	width: 150.78px;
+	height: 128.71px;
+	border-radius: 14px;
+}
+.qing {
+	font-family: '方正吕建德字体';
+	font-size: 130px;
+	position: relative;
+	top: -263px;
+	left: 10px;
+	color: #282c2d;
+}
+.fifthBox {
+	border: solid 5px #670000;
+	width: 150.78px;
+	height: 128.71px;
+	left: 0px;
+	position: relative;
+	top: -1386.41px;
+	border-radius: 20px;
+}
+.fifthBox img {
+	width: 150.78px;
+	height: 128.71px;
+	border-radius: 14px;
+}
+
+
+.min {
+	font-family: '方正吕建德字体';
+	font-size: 130px;
+	position: relative;
+	top: -263px;
+	left: 10px;
+	color: #282c2d;
+}
+.sixthBox {
+	border: solid 5px #670000;
+	width: 150.78px;
+	height: 128.71px;
+	left: 379.39px;
+	position: relative;
+	top: -1520.41px;
+	border-radius: 20px;
+}
+.sixthBox img {
+	width: 150.78px;
+	height: 128.71px;
+	border-radius: 14px;
+}
+
+.yue {
+	font-family: '方正吕建德字体';
+	font-size: 130px;
+	position: relative;
+	top: -263px;
+	left: 10px;
+	color: #282c2d;
+}
+.seventhBox {
+	border: solid 5px #670000;
+	width: 150.78px;
+	height: 128.71px;
+	left: 750.39px;
+	position: relative;
+	top: -1657.41px;
+	border-radius: 20px;
+}
+.seventhBox img {
+	width: 150.78px;
+	height: 128.71px;
+	border-radius: 14px;
+}
+
+.hui {
+	font-family: '方正吕建德字体';
+	font-size: 130px;
+	position: relative;
+	top: -263px;
+	left: 10px;
+	color: #282c2d;
+}
+.eighthBox {
+	border: solid 5px #670000;
+	width: 150.78px;
+	height: 128.71px;
+	left: 1154.39px;
+	position: relative;
+	top: -1795.41px;
+	border-radius: 20px;
+}
+.eighthBox img {
+	width: 150.78px;
+	height: 128.71px;
+	border-radius: 14px;
+}
+
+
+.background img{
+	width: 1500px;
+	height: 900px;
+	position:relative;
+	left: -75px;
+	top: 1px; 
+}

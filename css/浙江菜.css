@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	 margin: 0 auto;
+     padding :0;
+	background-color:#C9C5B0;
+		 
+}
+.nav {
+	 width: 1000px;
+	 height: 50px;
+	 margin: 0 auto;
+	 font-family: '华文行楷';
+} 
+.nav li {
+	 list-style: none;
+	 float: left;
+	 width: 90px;
+	 height: 100%;
+	 line-height: 50px;
+	 text-align: center;
+	 font-size: 19px;
+	 color: #333333;
+}
+.nav .logo {
+	 width: 363px;
+	 height: 100%;
+	 font-size:72px;
+	 color:#39585d;
+	 font-family: '方正吕建德字体';
+     margin-top:25px;margin-left:-50px;
+}
+.nav .qing {
+      color:#39585d;
+	  font-family: '华文行楷'; 
+      font-size:36px; 
+      margin-top:40px;
+      margin-left:-20px;
+}
+.return {
+        position: relative;
+        top: 38px;
+        left:140px; 
+}
+.hengxian {
+        margin-top: 40px;
+        color:#39585d;
+}
+.input {
+       margin-top:50px;
+       width: 200px;
+       height: 25px;
+       color:#39585d;
+       position: relative;
+       border: solid 2px #39585d;
+       border-radius: 10px;
+}
+.split {
+       width:796px;
+       height:40px;
+       text-align:center;
+       background-color:#39585d;
+}
+.zongti { 
+       margin: 0 auto;
+	   width:1366px;
+	   height:768px;
+}
+.container {
+       width:796px;
+       height:920px;
+       margin:0 auto; 
+       text-align:center; 
+       background-color:#e7e2d8;
+	   position: relative;
+       top: -800px;
+       left:-0.5px; 
+}
+.poemAuthor {
+       font-family:华文行楷;
+       font-size:25px;
+       text-align: center;
+       color: #513021;
+} 
+.poemText {
+       font-family:华文行楷;
+       font-size:25px;
+       line-height:2;
+       color: #513021;
+       
+} 
+.poemComment {
+       font-family:华文行楷;
+       font-size:20px;
+       letter-spacing:3px; 
+       text-align:left;
+       margin-left:25px;margin-top: -5px;
+       color: #513021;
+} 
+h2 {
+       font-family:华文行楷; 
+       font-size:40px; 
+ 	   color:#872a22; 
+       text-align: center
+}
+
+video {
+	 width:650px;
+       height:350px;
+	position: relative;
+       top: -20px;
+       left:-0.5px; 
+}
+.fenjiexian {
+	position: relative;
+       top:-15px;
+    
+}
+.zongti{
+	position: relative;
+       top:802px;
+	height: 0px;
+}
